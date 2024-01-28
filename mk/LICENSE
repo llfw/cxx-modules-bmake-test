@@ -1,0 +1,19 @@
+The individual files in this distribution are copyright their
+original contributors or assignees.
+Including:
+
+    Copyright (c) 1994-2020, Simon J Gerraty
+    Copyright (c) 2010-2018, Juniper Networks, Inc.
+    Copyright (c) 1988-1993
+    	The Regents of the University of California.
+
+Note: some of the *.mk files here were originally derrived from
+early NetBSD bsd.*.mk and do not carry any explicit copyright notice,
+or license terms, as is the custom in the BSD world for makefiles.
+
+The contributions from Juniper Networks are under:
+
+    SPDX-License-Identifier: BSD-2-Clause
+
+and you can consider that the operative license.
+

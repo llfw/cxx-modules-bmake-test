@@ -1,0 +1,4 @@
+*.d
+*.o
+.depend
+/test1/test

@@ -1,0 +1,9 @@
+module;
+
+#include <print>
+
+export module hello;
+
+export auto print_hello() -> void {
+	std::print("hello, world\n");
+}
