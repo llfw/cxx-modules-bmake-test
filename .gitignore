@@ -1,4 +1,5 @@
 *.d
 *.o
+*.pcm
 .depend
 /test1/test
